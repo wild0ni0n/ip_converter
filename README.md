@@ -1,7 +1,7 @@
 # IP converter
-This tool converts IP addresses into octal/decimal/hexadecimal format.
-It can also output URLs using the converted IP addresses.
-The URL can also use a different decimal number for each octet. The tool can output all combinations by using the `--mixed` option.
+This tool converts IP addresses into octal/decimal/hexadecimal format.  
+It can also output URLs using the converted IP addresses.  
+The URL can also use a different decimal number for each octet. The tool can output all combinations by using the `--mixed` option.  
 
 # Usage
 ```bash
